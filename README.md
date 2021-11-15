@@ -1,7 +1,8 @@
 
-<h1>Hi There <img  src="assets/hello.gif" width="30px"></h1>
+# Hi There <img  src="assets/hello.gif" width="30px">
 
-My name is Satyam Kumar Pathak and I'm a Computer Science Undergraduate at [IIIT Lucknow](https://iiitl.ac.in/) . 
+My name is Satyam Kumar Pathak and I'm a Computer Science Undergraduate.
+I'm from India, studying at [IIIT Lucknow](https://iiitl.ac.in/) . 
 
 - 💻 I’m currently learning everything 🤣
 - ⚡️ I love music and cooking . ⚡️
