@@ -3,15 +3,15 @@
 
 My name is Satyam Kumar Pathak and I'm a Computer Science Undergraduate at [IIIT Lucknow](https://iiitl.ac.in/) . 
 
-* 💻 I’m currently learning everything 🤣
+- 💻 I’m currently learning everything 🤣
 - ⚡️ I love music and cooking . ⚡️
-* 🥅 2021 Goals:
+- 🥅 2021 Goals:
   * Eat Sleep Repeat
 #
 
 **Languages , Frameworks and Tools:**
 
-![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;&nbsp;&nbsp;
 ![NodeJS](https://img.shields.io/badge/-NodeJS-black?logo=Node.js&style=social)&nbsp;&nbsp;&nbsp;&nbsp;
